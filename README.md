@@ -5,41 +5,41 @@
 
 <br>
 
-> **SYS_BIO.txt:** I'm a versatile developer who loves to look under the hood. I don't just use tools to build systems; I dissect how they work at a fundamental level. My passion lies in understanding the complex layers that constitute modern technology, from the physical hardware up to the sophisticated software interfaces.
+> **SYS_BIO.txt:** I'm a developer who loves to look under the hood. I don't just use tools to build systems; I analyze the systems to understand how they work at a fundamental level. My only goal is to understanding the complex layers of the modern technology, from the physical hardware up to the sophisticated software interfaces that changes the world.
 
 ---
 
-### 🚀 What I Do
+### <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/rocket.svg" width="24" height="24" align="center" /> What I Do
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🛡️ Cybersecurity & Reverse Eng</h3>
-      Analyzing malware, exploiting vulnerabilities, and securing infrastructure. I dive deep into binaries to understand attack vectors and build robust defense mechanisms.
+      <h3><img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/shield-alert.svg" width="20" height="20" align="center" /> Cybersecurity & Reverse Eng</h3>
+      Analyzing malware, exploiting vulnerabilities, and securing infrastructure that can effect everyone. I dive deep into binaries to understand attack vectors and offer defense mechanisms.
     </td>
     <td width="50%" valign="top">
-      <h3>⚙️ Automation & Data</h3>
-      Designing high-throughput ETL pipelines and intelligent automation scripts to process massive datasets with minimal latency.
+      <h3><img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/settings.svg" width="20" height="20" align="center" /> Automation & Data</h3>
+      Designing human-like intelligent automation scripts to process massive datasets with minimal latency.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 Hardware & Robotics</h3>
-      Bridging the gap between code and physical reality. Synthesizing embedded systems, developing firmware, and constructing autonomous robotic platforms.
+      <h3><img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/cpu.svg" width="20" height="20" align="center" /> Hardware & Robotics</h3>
+      Bridging the gap between code and physical reality. Developing and analyzing embedded systems, developing firmware, and building and updating autonomous robotic platforms.
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 AI Integration</h3>
+      <h3><img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/brain-circuit.svg" width="20" height="20" align="center" /> AI Integration</h3>
       Deploying state-of-the-art machine learning models into production environments, optimizing for inference speed and scalability.
     </td>
   </tr>
 </table>
 
-### 🌐 Sys & Net Programming
+### <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/network.svg" width="24" height="24" align="center" /> Sys & Net Programming
 Crafting low-level network protocols and high-performance system architectures designed for absolute reliability.
 
 ---
 
-### 💻 Tech Stack
+### <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/terminal-square.svg" width="24" height="24" align="center" /> Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -56,11 +56,11 @@ Crafting low-level network protocols and high-performance system architectures d
 
 ---
 
-### 🌌 Beyond the Screen
+### <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/microscope.svg" width="24" height="24" align="center" /> Beyond the Screen
 
-* 🖨️ **3D Printing:** Experimenting with advanced materials like TPU, ABS, and Silk PLA to create functional prototypes and intricate designs.
-* 🏕️ **Scouting & Leadership:** Embracing nature, developing survival skills, and fostering team spirit through active scouting.
-* 🗣️ **Debating & Rhetoric:** Sharpening critical thinking, logical argumentation, and public speaking through competitive debate.
+* <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/printer.svg" width="16" height="16" align="center" /> **3D Printing:** Experimenting with 3D models that i modelled to create functional prototypes and intricate designs.
+* <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/tent.svg" width="16" height="16" align="center" /> **Scouting & Leadership:** Embracing nature, developing survival skills, and fostering team spirit through active scouting.
+* <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/message-square-quote.svg" width="16" height="16" align="center" /> **Debating & Rhetoric:** Developing my thinking, logical argumentation, and public speaking skills through competitive debate.
 
 ---
 
