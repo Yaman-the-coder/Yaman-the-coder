@@ -65,5 +65,5 @@ Crafting low-level network protocols and high-performance system architectures d
 ---
 
 <div align="center">
-  <p><code>[ <a href="mailto:yaman26@proton.me">INITIATE_CONTACT</a> ] | [ <a href="https://linkedin.com/">LINKEDIN</a> ]</code></p>
+  <p><code>[ <a href="mailto:yaman26@proton.me">INITIATE_CONTACT</a> ] | [ <a href="https://www.linkedin.com/in/yaman-alio%C4%9Flu-072822343/">LINKEDIN</a> ]</code></p>
 </div>
