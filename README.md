@@ -5,7 +5,7 @@
 
 <br>
 
-> **SYS_BIO.txt:** I'm a developer who loves to look under the hood. I don't just use tools to build systems; I analyze the systems to understand how they work at a fundamental level. My only goal is to understanding the complex layers of the modern technology, from the physical hardware up to the sophisticated software interfaces that changes the world.
+> **SYS_BIO.txt:** As a developer, I'm always wanting to pull things apart, to understand not just how they create systems but the underlying reasons for why the systems create the ways they do. All I want is to make my way through, inside the technological systems of our time, from the silicon chips to the abstractions built up through layers and layers of software interface which transform our lives.
 
 ---
 
@@ -15,7 +15,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3><img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/shield-alert.svg" width="20" height="20" align="center" /> Cybersecurity & Reverse Eng</h3>
-      Analyzing malware, exploiting vulnerabilities, and securing infrastructure that can effect everyone. I dive deep into binaries to understand attack vectors and offer defense mechanisms.
+      Analysis and exploit of malwares and the defense of infrastructure, which affect every one I break in.binary so that I can know all attack vectors. And thenI suggest how we can secure them.
     </td>
     <td width="50%" valign="top">
       <h3><img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/settings.svg" width="20" height="20" align="center" /> Automation & Data</h3>
@@ -25,7 +25,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3><img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/cpu.svg" width="20" height="20" align="center" /> Hardware & Robotics</h3>
-      Bridging the gap between code and physical reality. Developing and analyzing embedded systems, developing firmware, and building and updating autonomous robotic platforms.
+      Closing the Gap between Code and the Real World. Creating, analyzing embedded systems, developing firmwares, creating, maintaining autonomous robotic platforms.
     </td>
     <td width="50%" valign="top">
       <h3><img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/brain-circuit.svg" width="20" height="20" align="center" /> AI Integration</h3>
@@ -35,7 +35,7 @@
 </table>
 
 ### <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/network.svg" width="24" height="24" align="center" /> Sys & Net Programming
-Crafting low-level network protocols and high-performance system architectures designed for absolute reliability.
+Developing very robust low-level network protocols and high-performance system architectures.
 
 ---
 
@@ -58,9 +58,9 @@ Crafting low-level network protocols and high-performance system architectures d
 
 ### <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/microscope.svg" width="24" height="24" align="center" /> Beyond the Screen
 
-* <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/printer.svg" width="16" height="16" align="center" /> **3D Printing:** Experimenting with 3D models that i modelled to create functional prototypes and intricate designs.
-* <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/tent.svg" width="16" height="16" align="center" /> **Scouting & Leadership:** Embracing nature, developing survival skills, and fostering team spirit through active scouting.
-* <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/message-square-quote.svg" width="16" height="16" align="center" /> **Debating & Rhetoric:** Developing my thinking, logical argumentation, and public speaking skills through competitive debate.
+* <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/printer.svg" width="16" height="16" align="center" /> **3D Printing:** I’ve been messing around with some 3D models which I modelled to create functional prototypes and more complex models.
+* <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/tent.svg" width="16" height="16" align="center" /> **Scouting & Leadership:** Connecting with nature, growing our resilience through outdoor learning, working together with the teamwork built through active scouting.
+* <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/message-square-quote.svg" width="16" height="16" align="center" /> **Debating & Rhetoric:** Honing my thinking, argumentative, and oral communication. Competitive debate is how.
 
 ---
 
