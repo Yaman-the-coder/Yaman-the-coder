@@ -59,7 +59,7 @@ Developing very robust low-level network protocols and high-performance system a
 ### Ai Usage
 
 <div align="center">
-  <img src="[https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80](https://images.squarespace-cdn.com/content/v1/64b95b252f4d690a21404ddb/1738160347894-9LVJVBF5GJYEWIW2IDQ2/work+day+%281%29.jpeg)" alt="Cybersecurity/Tech visual" width="100%" style="border-radius: 10px;" />
+  <img src="https://images.squarespace-cdn.com/content/v1/64b95b252f4d690a21404ddb/1738160347894-9LVJVBF5GJYEWIW2IDQ2/work+day+%281%29.jpeg" alt="Cybersecurity/Tech visual" width="50%" style="border-radius: 10px;" />
   <br>
   <sub><em>even though i use ai sometimes..</em></sub>
 </div>
